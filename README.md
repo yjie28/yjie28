@@ -27,6 +27,6 @@ I know this page is a little empty right now, but I will eventually fill it up. 
 
 ### 📫 
 
-<a href="https://linkedin.com/in/yjie28">
+<a href="https://linkedin.com/in/yjie28" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
