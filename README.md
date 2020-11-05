@@ -22,10 +22,16 @@ I know this page is a little empty right now, but I will eventually fill it up. 
 
 *... never stop learning*✨
 
+💛 Some of my project demos ... <br />
+[Crwn Clothing](https://crwnclothinggolive.herokuapp.com/) <br />
+[Face Recognition Brain](https://face-recogition-brain-yjie.herokuapp.com)
+
 
 💛 Currently working on ... [JS Mini Project - Custom Countdown](https://github.com/yjie28/jsp-custom-countdown)
 
 ### 📫 
+
+-> [Resume](https://drive.google.com/file/d/1cftXQRlMUhSiKpGrau-5AtHilJyMK89e/view?usp=sharing)
 
 <a href="https://linkedin.com/in/yjie28">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
