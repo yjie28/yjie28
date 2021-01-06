@@ -26,9 +26,6 @@ I know this page is a little empty right now, but I will eventually fill it up. 
 [Crwn Clothing](https://crwnclothinggolive.herokuapp.com/) <br />
 [Face Recognition Brain](https://face-recogition-brain-yjie.herokuapp.com)
 
-
-💛 Currently working on ... [JS Mini Project - Custom Countdown](https://github.com/yjie28/jsp-custom-countdown)
-
 ### 📫 
 
 -> [Resume](https://drive.google.com/file/d/1cftXQRlMUhSiKpGrau-5AtHilJyMK89e/view?usp=sharing)
