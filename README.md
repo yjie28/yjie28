@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 Hello from LA. 👋
 
 I'm Yiying, a Full Stack / Frontend Developer opening to work. <br />
-I know this page is a little empty right now, but I will eventually fill it up. :)
 
 *... never stop learning*✨
 
