@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hello from LA. 👋
 
-I'm Yiying, a Full Stack / Frontend Developer opening to work. <br />
+I'm Yiying, a Full Stack / Frontend Developer. <br />
 
 *... never stop learning*✨
 
@@ -27,7 +27,12 @@ I'm Yiying, a Full Stack / Frontend Developer opening to work. <br />
 [Crwn Clothing](https://crwnclothinggolive.herokuapp.com/) <br />
 [Face Recognition Brain](https://face-recogition-brain-yjie.herokuapp.com)
 
-### 📫 
+### Technologies
+
+![](https://img.shields.io/badge/Code-JavaScript-orange)
+![](https://img.shields.io/badge/Code-React.js-orange)
+
+### 📫
 
 -> [Resume](https://drive.google.com/file/d/1cftXQRlMUhSiKpGrau-5AtHilJyMK89e/view?usp=sharing)
 
