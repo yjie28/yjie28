@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/yjie28/yjie28/main/img/temp-header.jpg "Header")
+![Header](https://raw.githubusercontent.com/yjie28/yjie28/main/img/temp-header.png "Header")
 
 ### Hi (*´▽｀)
 
