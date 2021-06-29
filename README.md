@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Link to new Github: Click [Me](github.com/y-jie28)!
+
 Hello from LA. 👋
 
 I'm Yiying, a Full Stack / Frontend Developer. <br />
-
-*... never stop learning*✨
 
 💛 Some of my project demos ... <br />
 [Crwn Clothing](https://crwnclothinggolive.herokuapp.com/) <br />
@@ -33,9 +33,6 @@ I'm Yiying, a Full Stack / Frontend Developer. <br />
 ![](https://img.shields.io/badge/Code-React.js-orange)
 
 ### 📫
-
--> [Resume](https://drive.google.com/file/d/1cftXQRlMUhSiKpGrau-5AtHilJyMK89e/view?usp=sharing)
-
 <a href="https://linkedin.com/in/yjie28">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
