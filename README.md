@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Link to new Github: www.github.com/y-jie28 (mainly for learning Vue for now)
+Link to new Github: www.github.com/yjie10
 
 Hello from LA. 👋
 
