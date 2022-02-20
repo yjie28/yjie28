@@ -23,10 +23,6 @@ Hello from LA. 👋
 
 I'm Yiying, a Full Stack / Frontend Developer. <br />
 
-💛 Some of my project demos ... <br />
-[Crwn Clothing](https://crwnclothinggolive.herokuapp.com/) <br />
-[Face Recognition Brain](https://facerecog-brn.herokuapp.com/)
-
 ### Technologies
 
 ![](https://img.shields.io/badge/Code-JavaScript-orange)
